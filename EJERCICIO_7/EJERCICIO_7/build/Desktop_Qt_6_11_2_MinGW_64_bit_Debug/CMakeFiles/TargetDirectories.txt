@@ -1,0 +1,7 @@
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/EJERCICIO_7.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Users/alzat/OneDrive/Desktop/EJERCICIOS SUSTENTABLES INFORMATICA II TALLER 2/EJERCICIO_7/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
